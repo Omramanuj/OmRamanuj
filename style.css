@@ -1,0 +1,32 @@
+p.p1{
+    color: #6C6C6C;
+    text-align: center;
+    font-size: 250%;
+    font-family: Verdana , monospace;
+}
+
+img{
+    border-radius: 50%;
+    max-width:17%;
+    height: auto;
+    float: left;
+    position: relative;
+    left: 250px;
+}
+
+.text{
+    font-family: Verdana, Tahoma, sans-serif;
+    padding-left: 600px;
+}
+
+.insta{
+    color: #000000;
+    border-radius: 50%;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.insta:hover{
+    color: #6C6C6C;
+    transition:0.2s; 
+}
